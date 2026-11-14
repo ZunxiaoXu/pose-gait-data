@@ -1,0 +1,18 @@
+{
+  "CCPG": {
+    "root": "/home/gait_group/resources/dataset-for-opengait/CCPG/ccpg-keypoints",
+    "files": 16365,
+    "bytes": 717945744,
+    "archive": "CCPG_pose.zip",
+    "archive_bytes": 402550816,
+    "sha256": "20b06c9d6b22fd600156782b326089e08e53a1c33d289ae28e23c9a245ffe0db"
+  },
+  "SUSTech1K": {
+    "root": "/home/xuzunxiao/gait-opensource/skeleton/pose_sustech_camera_pose_20260929/data",
+    "files": 25239,
+    "bytes": 947248897,
+    "archive": "SUSTech1K_pose.zip",
+    "archive_bytes": 395689584,
+    "sha256": "0416cea925ec526ceeaced86452fbde3e20adeb231ff6b8c46aea47b5784cfe9"
+  }
+}
