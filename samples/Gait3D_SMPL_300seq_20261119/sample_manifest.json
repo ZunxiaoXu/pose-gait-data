@@ -29,44 +29,54 @@
   ],
   "archives": [
     {
-      "name": "Gait3D_SMPL_300seq_20261119.part01.zip",
-      "bytes": 327631047,
-      "sha256": "4a407d34223dca9bdae00555485e22e8bfd3070a7ae15ebd6de4522ff1693896",
-      "sequence_count": 64,
-      "frame_count": 8336,
-      "uncompressed_bytes": 365650304
+      "name": "Gait3D_SMPL_300seq_20261119.max256MB.part01.zip",
+      "bytes": 245104224,
+      "sha256": "deed42e8b6fe162577c942049ed2c8466256a3595fae9eab18c75bb94e38d3f6",
+      "sequence_count": 48,
+      "frame_count": 6239,
+      "uncompressed_bytes": 273667496
     },
     {
-      "name": "Gait3D_SMPL_300seq_20261119.part02.zip",
-      "bytes": 324457260,
-      "sha256": "07779428f980e1baf2c701b41df8511b4cc474f9cda0536224f4ba30ae894c23",
-      "sequence_count": 76,
-      "frame_count": 8233,
-      "uncompressed_bytes": 361132312
+      "name": "Gait3D_SMPL_300seq_20261119.max256MB.part02.zip",
+      "bytes": 245800382,
+      "sha256": "d4b6e665177ff4501740c3e3b2a2985d5746830f72d32f02c0b280ffcdb67f5e",
+      "sequence_count": 57,
+      "frame_count": 6237,
+      "uncompressed_bytes": 273579768
     },
     {
-      "name": "Gait3D_SMPL_300seq_20261119.part03.zip",
-      "bytes": 328577288,
-      "sha256": "dccc2fcd5214bee14d4b3699751f6467afe0fb25f674adf02a2c0d20e6eeb95d",
-      "sequence_count": 70,
-      "frame_count": 8354,
-      "uncompressed_bytes": 366439856
+      "name": "Gait3D_SMPL_300seq_20261119.max256MB.part03.zip",
+      "bytes": 247271104,
+      "sha256": "e5c352dd827a1ab1ce04d18218d68f110bfb25724955c676ff59d7d4b158bf1c",
+      "sequence_count": 51,
+      "frame_count": 6277,
+      "uncompressed_bytes": 275334328
     },
     {
-      "name": "Gait3D_SMPL_300seq_20261119.part04.zip",
-      "bytes": 324124232,
-      "sha256": "65ea16aa5a135e6a5d6581ea99756f3c8dba29507bdacd270db08494e82d37cb",
-      "sequence_count": 78,
-      "frame_count": 8243,
-      "uncompressed_bytes": 361570952
+      "name": "Gait3D_SMPL_300seq_20261119.max256MB.part04.zip",
+      "bytes": 249002428,
+      "sha256": "6c5d188c634895e41e124a79b9e02fc02fe20a7c2b9f7b4234041bfecb75b438",
+      "sequence_count": 57,
+      "frame_count": 6335,
+      "uncompressed_bytes": 277878440
     },
     {
-      "name": "Gait3D_SMPL_300seq_20261119.part05.zip",
-      "bytes": 71341718,
-      "sha256": "9468928f039eb2256df037b883842fb03d70c0dbec56ce68894b7f2d21b129f6",
-      "sequence_count": 12,
-      "frame_count": 1812,
-      "uncompressed_bytes": 79481568
+      "name": "Gait3D_SMPL_300seq_20261119.max256MB.part05.zip",
+      "bytes": 245487306,
+      "sha256": "87eb3c2966c7b9d28e948d4836eaecf3811c46bc7e1294bd81ff3fea53c33cd5",
+      "sequence_count": 56,
+      "frame_count": 6240,
+      "uncompressed_bytes": 273711360
+    },
+    {
+      "name": "Gait3D_SMPL_300seq_20261119.max256MB.part06.zip",
+      "bytes": 143466123,
+      "sha256": "a5987f3a3c6b859d4352b5318feaeb3d52946301c3bc8942db52ee6a1e2b50a2",
+      "sequence_count": 31,
+      "frame_count": 3650,
+      "uncompressed_bytes": 160103600
     }
-  ]
+  ],
+  "archive_size_limit_bytes": 256000000,
+  "archive_size_limit_unit": "MB, 1 MB = 1,000,000 bytes"
 }
