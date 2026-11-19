@@ -1,0 +1,72 @@
+{
+  "dataset": "Gait3D original 3D SMPL samples",
+  "date": "2026-11-19",
+  "release_tag": "gait3d-smpl-300seq-20261119",
+  "sequence_count": 300,
+  "subject_count": 300,
+  "frame_count": 34978,
+  "uncompressed_bytes": 1534274992,
+  "frame_count_min": 25,
+  "frame_count_max": 473,
+  "frame_count_median": 88.5,
+  "source_folder_url": "https://drive.google.com/drive/folders/1Ej9pJykl6Hzx85TG4ug17F5RSN-yWJJS",
+  "source_volume_name": "3D_SMPLs_part.z12",
+  "source_index_sha256": "bcd44d651b108d8951fbd58a7ebc54ab957ea1e496833526917183beb472d8d8",
+  "selection_method": "300 distinct subjects, one complete sequence each, retaining the previous three samples",
+  "random_seed": 20261119,
+  "candidate_sequences_in_volume": 2143,
+  "candidate_subjects_in_volume": 352,
+  "previous_samples_included": [
+    "3D_SMPLs/0356/camid9_videoid2/seq3",
+    "3D_SMPLs/0421/camid8_videoid3/seq0",
+    "3D_SMPLs/0725/camid17_videoid2/seq0"
+  ],
+  "integrity_checks": [
+    "original ZIP size and CRC32",
+    "NPZ internal CRC",
+    "package ZIP CRC",
+    "package SHA256"
+  ],
+  "archives": [
+    {
+      "name": "Gait3D_SMPL_300seq_20261119.part01.zip",
+      "bytes": 327631047,
+      "sha256": "4a407d34223dca9bdae00555485e22e8bfd3070a7ae15ebd6de4522ff1693896",
+      "sequence_count": 64,
+      "frame_count": 8336,
+      "uncompressed_bytes": 365650304
+    },
+    {
+      "name": "Gait3D_SMPL_300seq_20261119.part02.zip",
+      "bytes": 324457260,
+      "sha256": "07779428f980e1baf2c701b41df8511b4cc474f9cda0536224f4ba30ae894c23",
+      "sequence_count": 76,
+      "frame_count": 8233,
+      "uncompressed_bytes": 361132312
+    },
+    {
+      "name": "Gait3D_SMPL_300seq_20261119.part03.zip",
+      "bytes": 328577288,
+      "sha256": "dccc2fcd5214bee14d4b3699751f6467afe0fb25f674adf02a2c0d20e6eeb95d",
+      "sequence_count": 70,
+      "frame_count": 8354,
+      "uncompressed_bytes": 366439856
+    },
+    {
+      "name": "Gait3D_SMPL_300seq_20261119.part04.zip",
+      "bytes": 324124232,
+      "sha256": "65ea16aa5a135e6a5d6581ea99756f3c8dba29507bdacd270db08494e82d37cb",
+      "sequence_count": 78,
+      "frame_count": 8243,
+      "uncompressed_bytes": 361570952
+    },
+    {
+      "name": "Gait3D_SMPL_300seq_20261119.part05.zip",
+      "bytes": 71341718,
+      "sha256": "9468928f039eb2256df037b883842fb03d70c0dbec56ce68894b7f2d21b129f6",
+      "sequence_count": 12,
+      "frame_count": 1812,
+      "uncompressed_bytes": 79481568
+    }
+  ]
+}

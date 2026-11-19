@@ -33,4 +33,11 @@ The representative sequences checked during export were NumPy arrays with shapes
 
 ## Use with an online AI
 
-Provide this README, the file index and `read_pose.py` with the data packages. The analysis environment needs access to the downloaded ZIP files and Python with NumPy. Access to this private repository requires authorization for the account or tool performing the download.
+Provide this README, the file index and `read_pose.py` with the data packages. The analysis environment needs access to the downloaded ZIP files and Python with NumPy. This repository and its published release assets are publicly accessible.
+
+<!-- gait3d-smpl-300seq-20261119 -->
+## Gait3D SMPL samples
+
+300 subjects, one complete sequence per subject, with 34,978 original NPZ frames. Sequence lengths range from 25 to 473 frames. The sample includes the three sequences extracted earlier.
+
+[Data and indexes](samples/Gait3D_SMPL_300seq_20261119/README.md) and [download packages](https://github.com/ZunxiaoXu/pose-gait-data/releases/tag/untagged-5eec425df924da1c895b) are available for this batch. The data comes from the `.z12` volume of the original Gait3D SMPL archive.
