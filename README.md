@@ -40,4 +40,4 @@ Provide this README, the file index and `read_pose.py` with the data packages. T
 
 300 subjects, one complete sequence per subject, with 34,978 original NPZ frames. Sequence lengths range from 25 to 473 frames. The sample includes the three sequences extracted earlier.
 
-[Data and indexes](samples/Gait3D_SMPL_300seq_20261119/README.md) and [download packages](https://github.com/ZunxiaoXu/pose-gait-data/releases/tag/untagged-5eec425df924da1c895b) are available for this batch. The data comes from the `.z12` volume of the original Gait3D SMPL archive.
+[Data and indexes](samples/Gait3D_SMPL_300seq_20261119/README.md) and [download packages](https://github.com/ZunxiaoXu/pose-gait-data/releases/tag/gait3d-smpl-300seq-20261119) are available for this batch. The data comes from the `.z12` volume of the original Gait3D SMPL archive.
