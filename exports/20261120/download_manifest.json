@@ -1,0 +1,48 @@
+{
+  "CASIA-B": {
+    "sequences": 13592,
+    "identities": 124,
+    "uncompressed_pose_bytes": 455285240,
+    "parts": [
+      {
+        "file": "CASIA-B_pose.zip",
+        "bytes": 366772467,
+        "sha256": "e50587b6f01792236120144678b3f24249175ccc96e0c5ef4e6a4890295ffd1b",
+        "sequences": 13592
+      }
+    ],
+    "compressed_bytes": 366772467
+  },
+  "Gait3D": {
+    "sequences": 25309,
+    "identities": 4000,
+    "uncompressed_pose_bytes": 1341982141,
+    "parts": [
+      {
+        "file": "Gait3D_pose.part01.zip",
+        "bytes": 254939148,
+        "sha256": "ee7f60e43240e52a316b19e3d44a0d577f4e19bb233903549d79f9bce980a48d",
+        "sequences": 7532
+      },
+      {
+        "file": "Gait3D_pose.part02.zip",
+        "bytes": 254635611,
+        "sha256": "8f694d085215a1539859efe4e4b93267766a8fbd98907ca7eb1d151479e9c5a8",
+        "sequences": 8029
+      },
+      {
+        "file": "Gait3D_pose.part03.zip",
+        "bytes": 254522290,
+        "sha256": "bd6245be3ce611d036c23f5bf4c32c943473a84044f907c59da6460864fe5437",
+        "sequences": 8163
+      },
+      {
+        "file": "Gait3D_pose.part04.zip",
+        "bytes": 51170980,
+        "sha256": "c721fdb9b557e8374d6f89129f9184f351d81115f6db01c6bc1597a959670ae7",
+        "sequences": 1585
+      }
+    ],
+    "compressed_bytes": 815268029
+  }
+}
