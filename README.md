@@ -43,3 +43,10 @@ Provide this README, the file index and `read_pose.py` with the data packages. T
 [Data and indexes](samples/Gait3D_SMPL_300seq_20261119/README.md) and [download packages](https://github.com/ZunxiaoXu/pose-gait-data/releases/tag/gait3d-smpl-300seq-20261119) are available for this batch. The data comes from the `.z12` volume of the original Gait3D SMPL archive.
 
 Each ZIP is at most 256,000,000 bytes (256 MB).
+
+<!-- pose-export-casiab-gait3d-20261120 -->
+## CASIA-B and Gait3D pose data
+
+The processed pose data copies exported on 2026-11-20 contain 13,592 CASIA-B sequences from 124 identities and 25,309 Gait3D sequences from 4,000 identities. Gait3D is divided into independent ZIP parts, each at most 256 MB.
+
+[Download pose packages](https://github.com/ZunxiaoXu/pose-gait-data/releases/tag/v2026.11.20) and [read the export details](exports/20261120/README.md).
